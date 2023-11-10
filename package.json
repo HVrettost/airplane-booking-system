@@ -1,0 +1,27 @@
+{
+  "name": "airplane-booking-system",
+  "version": "1.0.0",
+  "description": "the backend part of the airplane booking system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HVrettost/airplane-booking-system.git"
+  },
+  "author": "charis.vrettos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HVrettost/airplane-booking-system/issues"
+  },
+  "homepage": "https://github.com/HVrettost/airplane-booking-system#readme",
+  "devDependencies": {
+    "prisma": "^5.5.2",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@workablehr/orka": "^3.9.1",
+    "postgres": "^3.4.3"
+  }
+}
